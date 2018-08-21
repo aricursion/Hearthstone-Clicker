@@ -24,13 +24,13 @@ width: 50%;
 }
 
 #myInput {
-  background-position: 10px 12px;
-  background-repeat: no-repeat;
-  width: 100%;
+  width: 50%;
   font-size: 16px;
-  padding: 12px 20px 12px 40px;
+  padding: 12px 0px 12px 10px;
   border: 1px solid #ddd;
   margin-bottom: 12px;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 #myUL {
@@ -43,6 +43,9 @@ width: 50%;
   border: 1px solid #ddd;
   margin-top: -1px; /* Prevent double borders */
   background-color: #f6f6f6;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
   padding: 12px;
   text-decoration: none;
   font-size: 18px;
