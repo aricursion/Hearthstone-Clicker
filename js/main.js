@@ -1,6 +1,6 @@
 function cardChanger(a){
-  var someVarName = a;
-  sessionStorage.setItem("Key", someVarName);
+  var cardPlaceholder = a;
+  sessionStorage.setItem("Key", cardPlaceholder);
 }
 
 var card = sessionStorage.getItem("Key");

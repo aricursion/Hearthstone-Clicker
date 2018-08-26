@@ -37,7 +37,8 @@ function SearchBar() {
 
   sortList();
 
-  /*document.getElementById('myInput').onkeypress = function(e){
+  /*
+  document.getElementById('myInput').onkeypress = function(e){
       if (!e) e = window.event;
       var keyCode = e.keyCode || e.which;
       if (keyCode == '13'){
